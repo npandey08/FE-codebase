@@ -1,0 +1,45 @@
+
+.navigation {
+    background-color: #ffa0a0;
+    height: 52.81px;
+    color: white;
+    display: block;
+}
+
+.header {
+    float: left;
+    margin: 0;
+    padding-top: 5px;
+}
+
+.navigation-item {
+    color: white;
+    height: 52.81px;
+    margin: 0;
+    text-decoration: none;
+    display: inline-flex;
+    float: right;
+    text-align: -webkit-match-parent;
+    list-style-type: none;
+}
+
+.headerimg {
+    float: left;
+}
+
+.ullu {
+        list-style-type: none;
+        margin: 0;
+}
+
+.list {
+    float: right;
+    padding: 15px 10px 19px 10px;
+}
+
+.dashboard {
+    justify-content:center;
+    color: maroon;
+    display: flex;
+    justify-content: center;
+    }

@@ -1,0 +1,69 @@
+
+.UpdateMenu {
+  padding-left: 3em;
+  padding-right: 3em;
+  margin-top: 3em;
+  }
+    
+  table {
+    border: 1px solid forestgreen;
+    justify-content: center;
+  }
+    
+  th {
+    border-bottom: 1px solid forestgreen;
+    width: 30em;
+  }
+    
+  td {
+    text-align: center;
+    width: 30em;
+  }
+
+  .menu-format {
+    height: 100px;
+    width: 100px;
+  }
+
+  .btn-edit {
+    background-color: aqua;
+    width: 60px;
+  }
+
+  .btn-delete {
+    background-color: red;
+    width: 60px;
+  }
+
+  form {
+    display: flex;
+    gap: 5px;
+  }
+  
+  form td:last-child {
+    
+    justify-content: space-evenly;
+  }
+  
+  form * {
+    font-size: 20px;
+  }
+
+  .heading {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    padding-bottom: 10px;
+  }
+
+  .Add {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+  }
+
+  .message {
+    font-size: 1.2em;
+    text-align: center;
+    color: #36a936;
+  }

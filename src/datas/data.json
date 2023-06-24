@@ -1,0 +1,43 @@
+
+[
+    {
+      "id":1,
+      "itemcode": "0011223",
+      "itemname": "Veg Burger",
+      "price": "₹ 50.00",
+      "availabilitystatus" : "Available"
+    },
+    {
+      "id":2,
+      "itemcode": "0011222",
+      "itemname": "Pasta",
+      "price": "₹ 180.00",
+      "availabilitystatus" : "Available"
+      
+    },
+    {
+      "id":3,
+      "itemcode": "0011224",
+      "itemname": "Vegetable Salad",
+      "price": "₹ 150.00",
+      "availabilitystatus" : "Available"
+     
+    },
+    {
+      "id":4,
+      "itemcode": "0011678",
+      "itemname": "Veg Pizza",
+      "price": "₹ 350.00",
+      "availabilitystatus" : "Available"
+     
+    },
+    {
+      "id":5,
+      "itemcode": "00112673",
+      "itemname": "French Fries",
+      "price": "₹ 100.00",
+      "availabilitystatus" : "Available"
+     
+    }
+    
+    ]
