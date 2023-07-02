@@ -4,8 +4,13 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'rm -rf node_modules'
-                sh 'npm install'
+                sh "sudo npm install"
+                sh "sudo run build"
+            }
+        }
+        stage('Test') {
+            steps {
+                sh "sudo npm run test src/App.test.js"
             }
         }
     }
